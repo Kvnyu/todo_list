@@ -1,0 +1,10 @@
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  background-color: #e5e5e5;
+  font-family: 'inter';
+  margin-bottom: 136px;
+}
